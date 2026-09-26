@@ -1,12 +1,13 @@
 # ELAB-Signal-Generator
 A square wave generator with adjustable frequency, gain, and offset control. Designed as a part of UBC's ELAB PCB design course.
 
-### **Skills used in this projecct**
+### **Skills used in this project**
 ***KiCad, Analog Circuit Design, Hand Soldering, Testing/Validation***
 
 ---
+
 <p float="left">
-  <img src="Media/PCB_Front.png" width="49%" />
+  <img src="Media/PCB_Front.png" width="49%" height="700" />
   <img src="Media/PCB_Back.png" width="49%" height="650" />
 </p>
 
