@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Dual-Rail PSU Footprints") (type "KiCad") (uri "C:/Users/joshm/Documents/KiCad/10.0/footprints/Dual-Rail PSU Footprints.pretty") (options "") (descr ""))
+	(lib (name "Signal-Generator_Footprints") (type "KiCad") (uri "${KIPRJMOD}/Signal-Generator_Footprints.pretty") (options "") (descr ""))
+)
