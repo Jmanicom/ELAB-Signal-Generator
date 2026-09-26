@@ -6,8 +6,8 @@ A square wave generator with adjustable frequency, gain, and offset control. Des
 
 ---
 <p float="left">
-  <img src="Media/PCB_Front.png" width="49%" />
-  <img src="Media/PCB_Back.png" width="49%" />
+  <img src="Media/PCB_Front.png" width="49%" height="720" />
+  <img src="Media/PCB_Back.png" width="49%" height="720" />
 </p>
 
 # Design
