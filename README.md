@@ -12,10 +12,11 @@ A square wave generator with adjustable frequency, gain, and offset control. Des
 </p>
 
 # Design
-The design for this signal generator is not complex, this is because it's main purpose was to provide an opportunity to design and assemble a PCB from
-the start to finish of the production cycle. This included schematic capture, component/footprint library creation, component layout, laying traces, and
-laying polygon pours. In the second stage of the course, we received our boards and components and assembled them using hand soldering, and tested them using
-an oscilloscope to view our signals and test the various adjustments.
+The design for this signal generator is not complex, this is because it's main purpose was to provide an opportunity to design 
+and assemble a PCB from the start to finish of the production cycle. This included schematic capture, component/footprint library 
+creation, component layout, laying traces, and laying polygon pours. In the second stage of the course, we received our boards and 
+components and assembled them using hand soldering, and tested them using an oscilloscope to view our signals and test the various 
+adjustments.
 
 ## Power Supply
 The signal generator utilizes +/-5V rails to be able produce a maximum of a 10V peak-to-peak
@@ -35,6 +36,20 @@ diode is placed on the output which can be engaged with the use of a jumper.
 
 <p>
   <img src="Media/SignalGen_Sch2.png" />
+</p>
+
+## PCB Design
+With this being my first attempt at PCB design, there is room for improvement with my traces decisions component placement.
+With this project, we were constrained on the size of board that we could use, additionally, I wanted to make a unique shape
+for my board that tends to be a popular shape for small desings that need to be mounted.
+
+The large 1206 capacitors were placed on the back side of the board as they are quite bulky and left very little room for other
+components on the board. This board features 2-layers with ground pours on each layer, as well as stitching vias to help further
+with noise.
+
+<p float="left">
+  <img src="Media/PCB_Traces1.png" width="49%"  />
+  <img src="Media/PCB_Traces2.png" width="49%" height="523 />
 </p>
 
 # Assembly
