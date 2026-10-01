@@ -49,7 +49,7 @@ with noise.
 
 <p float="left">
   <img src="Media/PCB_Traces1.png" width="49%"  />
-  <img src="Media/PCB_Traces2.png" width="49%" height="526" />
+  <img src="Media/PCB_Traces2.png" width="49%" height="530" />
 </p>
 
 # Assembly
